@@ -1,3 +1,7 @@
+"""
+- 에라토스테네스의 체
+소수 찾는 방법
+"""
 n, k = [int(x) for x in input().split()]
 cnt = 0
 prime_tf = [True] * (n + 1)
