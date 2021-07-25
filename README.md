@@ -23,3 +23,8 @@ Practice Data Structure and Algorithms
     - 21275, 
 - [x] 기타 관련 문제
     - 2553, 
+
+## 3. 완전탐색, 백트랙킹
+- [ ] 완전탐색
+    - 1436, 19532, 
+- [ ] 백트랙킹
