@@ -26,5 +26,5 @@ Practice Data Structure and Algorithms
 
 ## 3. 완전탐색, 백트랙킹
 - [ ] 완전탐색
-    - 1436, 19532, 
+    - 1436, 19532, 18511, 
 - [ ] 백트랙킹
