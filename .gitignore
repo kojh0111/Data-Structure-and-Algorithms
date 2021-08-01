@@ -137,5 +137,11 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
+#Visual Studio Code
 .vscode
+
+# MacOS
 .DS_Store
+
+# test file
+test.py

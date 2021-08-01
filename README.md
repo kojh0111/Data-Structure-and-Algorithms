@@ -18,7 +18,7 @@ Practice Data Structure and Algorithms
 - [x] 최대공약수(유클리드 호제법)
     - [1934](./02_Math/1934.py), [2609](./02_Math/2609.py), [1188](./02_Math/1188.py), 
 - [x] 소수(에라토스테네스의 체)
-    - [2581](./02_Math/2581.py), [2960](./02_Math/2960.py)/, [1456](./02_Math/1456.py), [11502](./03_Brute-forcenBacktracking/11502.py), [1747](./02_Math/1747.py), 
+    - [2581](./02_Math/2581.py), [2960](./02_Math/2960.py), [1456](./02_Math/1456.py), [11502](./03_Brute-forcenBacktracking/11502.py), [1747](./02_Math/1747.py), 
 - [x] 기수법
     - [21275](./02_Math/21275.py), 
 - [x] 기타 관련 문제
@@ -26,5 +26,5 @@ Practice Data Structure and Algorithms
 
 ## 3. 완전탐색, 백트랙킹
 - [ ] 완전탐색
-    - [1436](./03_Brute-forcenBacktracking/1436.py), [19532](./03_Brute-forcenBacktracking/19532.py), [18511](./03_Brute-forcenBacktracking/18511.py), [1018](./03_Brute-forcenBacktracking/1018.py), [2422](./03_Brute-forcenBacktracking/2422.py), 
+    - [1436](./03_Brute-forcenBacktracking/1436.py), [19532](./03_Brute-forcenBacktracking/19532.py), [18511](./03_Brute-forcenBacktracking/18511.py), [1018](./03_Brute-forcenBacktracking/1018.py), [2422](./03_Brute-forcenBacktracking/2422.py), [2503](./03_Brute-forcenBacktracking/2503.py), 
 - [ ] 백트랙킹
