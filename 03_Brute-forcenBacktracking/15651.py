@@ -1,6 +1,6 @@
 """
 - N과 M (3)
-
+중복순열
 """
 N, M = [int(x) for x in input().split()]
 

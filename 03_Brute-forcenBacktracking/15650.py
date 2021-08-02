@@ -1,11 +1,11 @@
 """
 - N과 M (2)
-
+조합
 """
 N, M = [int(x) for x in input().split()]
 
 
-def recur(data, last):
+def recur(data, last):  # 크기 순으로만!
     if len(data) == M:
         print(*data)
         return
