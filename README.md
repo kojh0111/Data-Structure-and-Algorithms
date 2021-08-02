@@ -28,3 +28,4 @@ Practice Data Structure and Algorithms
 - [ ] 완전탐색
     - [1436](./03_Brute-forcenBacktracking/1436.py), [19532](./03_Brute-forcenBacktracking/19532.py), [18511](./03_Brute-forcenBacktracking/18511.py), [1018](./03_Brute-forcenBacktracking/1018.py), [2422](./03_Brute-forcenBacktracking/2422.py), [2503](./03_Brute-forcenBacktracking/2503.py), 
 - [ ] 백트랙킹
+    - [15649](./03_Brute-forcenBacktracking/15649.py), [15650](./03_Brute-forcenBacktracking/15650.py), [15651](./03_Brute-forcenBacktracking/15651.py), [15652](./03_Brute-forcenBacktracking/15652.py), 
