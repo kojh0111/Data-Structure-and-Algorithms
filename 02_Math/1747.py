@@ -1,3 +1,9 @@
+"""
+- 소수&팰린드롬
+1_000_000 이하의 팰린드롬인 소수를 구하고 크기 비교
+"""
+
+
 def isPalindrome(num):
     num = str(num)
     if num == num[::-1]:
