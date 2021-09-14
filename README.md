@@ -6,7 +6,7 @@ Practice Data Structure and Algorithms
 - [x] 스택
     - [10828](./01_Data_Structure/10828.py), [1874](./01_Data_Structure/1874.py), [9012](./01_Data_Structure/9012.py), [10799](./01_Data_Structure/10799.py), 
 - [x] List, Dictionary, Set, Tuple
-    - [1620](./01_Data_Structure/1620.py), [14425](./01_Data_Structure/14425.py), [1966](./01_Data_Structure/1966.py), 
+    - [1620](./01_Data_Structure/1620.py), [14425](./01_Data_Structure/14425.py), [1966](./01_Data_Structure/1966.py), [5430](./01_Data_Structure/5430.py), 
 - [x] deque
     - [10866](./01_Data_Structure/10866.py), [1158](./01_Data_Structure/1158.py), [18258](./01_Data_Structure/18258.py), [2164](./01_Data_Structure/2164.py), 
 - [x] heapq
