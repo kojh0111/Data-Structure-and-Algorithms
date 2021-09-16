@@ -35,5 +35,8 @@ Practice Data Structure and Algorithms
     - [2667](./03_Brute-forcenBacktracking/2667.py),    
 - [ ] DFS    
     
-## 5. 동적계획법
+## 5. 그리디 알고리즘
+- [11047](./05_Greedy/11047.py), 
+
+## 6. 동적계획법
 - [2293](./12_DP/2293.py), [2294](./12_DP/2294.py), [2133](./12_DP/2133.py),    
