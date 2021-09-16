@@ -36,7 +36,7 @@ Practice Data Structure and Algorithms
 - [ ] DFS    
     
 ## 5. 그리디 알고리즘
-- [11047](./05_Greedy/11047.py), 
+- [11047](./05_Greedy/11047.py), [1931](./05_Greedy/1931.py), 
 
 ## 6. 동적계획법
 - [2293](./12_DP/2293.py), [2294](./12_DP/2294.py), [2133](./12_DP/2133.py),    
