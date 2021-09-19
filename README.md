@@ -9,8 +9,8 @@ Practice Data Structure and Algorithms
     - [1620](./01_Data_Structure/1620.py), [14425](./01_Data_Structure/14425.py), [1966](./01_Data_Structure/1966.py), [5430](./01_Data_Structure/5430.py), 
 - [x] deque
     - [10866](./01_Data_Structure/10866.py), [1158](./01_Data_Structure/1158.py), [18258](./01_Data_Structure/18258.py), [2164](./01_Data_Structure/2164.py), 
-- [x] heapq
-    - [11279](./01_Data_Structure/11279.py), [11286](./01_Data_Structure/11286.py), [1655](./01_Data_Structure/1655.py), [15903](./01_Data_Structure/15903.py), 
+- [x] heapq, tree
+    - [11279](./01_Data_Structure/11279.py), [11286](./01_Data_Structure/11286.py), [1655](./01_Data_Structure/1655.py), [15903](./01_Data_Structure/15903.py), [1991](./01_Data_Structure/1991.py), 
 
 ## 2. 수학
 - [x] 기본적인 연산
