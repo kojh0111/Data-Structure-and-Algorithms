@@ -40,3 +40,7 @@ Practice Data Structure and Algorithms
 
 ## 6. 동적계획법
 - [2293](./12_DP/2293.py), [2294](./12_DP/2294.py), [2133](./12_DP/2133.py),    
+    
+## 7. 비트마스크
+- [2961](./16_BitMask/2961.py),     
+    
