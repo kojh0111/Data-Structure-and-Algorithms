@@ -42,5 +42,5 @@ Practice Data Structure and Algorithms
 - [2293](./12_DP/2293.py), [2294](./12_DP/2294.py), [2133](./12_DP/2133.py),    
     
 ## 7. 비트마스크
-- [2961](./16_BitMask/2961.py),     
+- [2961](./16_BitMask/2961.py), [15787](./16_BitMask/15787.py),    
     
