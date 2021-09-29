@@ -39,7 +39,7 @@ Practice Data Structure and Algorithms
 - [11047](./05_Greedy/11047.py), [1931](./05_Greedy/1931.py), [1374](./05_Greedy/1374.py), 
 
 ## 6. 해시
-- [위장](./09_Hash/programmers_42578.py)
+- [위장](./09_Hash/programmers_42578.py), [베스트앨범](./09_Hash/programmers_42579.py),    
 
 ## 7. 이분탐색
 - [10816](./10_Binary_Search/10816.py)
