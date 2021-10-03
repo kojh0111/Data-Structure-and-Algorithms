@@ -42,7 +42,7 @@ Practice Data Structure and Algorithms
 - [위장](./09_Hash/programmers_42578.py), [베스트앨범](./09_Hash/programmers_42579.py),    
 
 ## 7. 이분탐색
-- [10816](./10_Binary_Search/10816.py)
+- [10816](./10_Binary_Search/10816.py), [1920](./10_Binary_Search/1920.py), 
 
 ## 8. 동적계획법
 - [2293](./12_DP/2293.py), [2294](./12_DP/2294.py), [2133](./12_DP/2133.py), [2579](./12_DP/2579.py),       
