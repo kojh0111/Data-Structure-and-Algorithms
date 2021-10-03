@@ -4,7 +4,7 @@ Practice Data Structure and Algorithms
 
 ## 1. 자료구조
 - [x] 스택
-    - [10828](./01_Data_Structure/10828.py), [1874](./01_Data_Structure/1874.py), [9012](./01_Data_Structure/9012.py), [10799](./01_Data_Structure/10799.py), [10773](./01_Data_Structure/10773.py), [1406](./01_Data_Structure/1406.py), 
+    - [10828](./01_Data_Structure/10828.py), [1874](./01_Data_Structure/1874.py), [9012](./01_Data_Structure/9012.py), [10799](./01_Data_Structure/10799.py), [10773](./01_Data_Structure/10773.py), [1406](./01_Data_Structure/1406.py), [2841](./01_Data_Structure/2841.py), 
 - [x] List, Dictionary, Set, Tuple
     - [1620](./01_Data_Structure/1620.py), [14425](./01_Data_Structure/14425.py), [1966](./01_Data_Structure/1966.py), [5430](./01_Data_Structure/5430.py), 
 - [x] deque

@@ -1,3 +1,8 @@
+"""
+- 수 찾기
+이분 탐색을 이용해서 풀이 가능
+target 값을 찾을 때까지 반으로 나눠 탐색
+"""
 import sys
 
 input = sys.stdin.readline
