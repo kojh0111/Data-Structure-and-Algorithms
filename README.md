@@ -32,8 +32,9 @@ Practice Data Structure and Algorithms
 
 ## 4. 그래프 탐색
 - [ ] DFS
-    - [2667](./03_Brute-forcenBacktracking/2667.py),    
-- [ ] DFS    
+    - [2667](./06_Graph_Traversal/2667.py),    
+- [ ] BFS    
+    - [10026](./06_Graph_Traversal/10026.py),    
     
 ## 5. 그리디 알고리즘
 - [11047](./05_Greedy/11047.py), [1931](./05_Greedy/1931.py), [1374](./05_Greedy/1374.py), 
