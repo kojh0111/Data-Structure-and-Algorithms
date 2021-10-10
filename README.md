@@ -49,10 +49,10 @@ Practice Data Structure and Algorithms
 - [2293](./12_DP/2293.py), [2294](./12_DP/2294.py), [2133](./12_DP/2133.py), [2579](./12_DP/2579.py),       
 
 ## 9. 투포인터
-- [11659](./10_Binary_Search/11659.py), 
+- [11659](./14_Two_Pointer/11659.py), [2531](./14_Two_Pointer/2531.py), 
 
 ## 10. 위상정렬
-- [1766](./10_Binary_Search/1766.py)
+- [1766](./15_Topological_Sort/1766.py)
     
 ## 11. 비트마스크
 - [2961](./16_BitMask/2961.py), [15787](./16_BitMask/15787.py),    
